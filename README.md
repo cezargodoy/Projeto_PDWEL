@@ -1,7 +1,7 @@
 # Projeto_PDWEL
 
 Projeto da Matéria de PDWEL Professor UGO 
-Aluno: Cezar Godoy
+Aluno: Cezar Godoy e Isabela Duarte
 Curso Análise e Desenvolvimento de Sistemas - IFSP
 
 Projeto desenvolvido em PHP com
