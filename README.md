@@ -32,3 +32,7 @@ Antes de começar, você vai precisa ter instalado em sua máquina o [XAMPP](htt
 # Como usar
 
 ![image](https://user-images.githubusercontent.com/60990343/175794489-aad338d7-ec8c-4fa2-8cab-77659552e98a.png)
+
+
+![image](https://user-images.githubusercontent.com/60990343/175794503-00d9fcce-630b-44d2-b9f6-c09be75f2e26.png)
+
