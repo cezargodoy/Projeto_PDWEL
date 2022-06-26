@@ -12,6 +12,8 @@
 <p>Projeto da disciplina optativa de PDWEL (Programação Dinâmica para Web) do Curso de Análise e Desenvolvimento de Sistemas - IFSP, sendo ministrado pelo Prof° Ugo Henrique Pereira Da Silva. </p>
 <p>O projeto foi desenvolvido em PHP, sendo realizado pelos alunos Cezar Godoy e Isabela Duarte. </p>
 
+Utilizado MySQL como CRUD, MVC e Reponsividade.
+
 # Instalação
 Antes de começar, você vai precisa ter instalado em sua máquina o [XAMPP](https://apachefriends.org/), pois é onde iremos simular nosso servidor web.
 
