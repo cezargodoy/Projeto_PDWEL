@@ -30,3 +30,5 @@ Antes de começar, você vai precisa ter instalado em sua máquina o [XAMPP](htt
 <p>Aperte em <strong>Start</strong> no XAMPP para rodar o servidor e digite esse endereço <strong>http://localhost:8080/</strong> incluindo a porta que foi adicionada na configuração. Para o nosso projeto, adicionamos na porta <a href="http://localhost:8080/">8080</a>.</p>
 
 # Como usar
+
+![image](https://user-images.githubusercontent.com/60990343/175794489-aad338d7-ec8c-4fa2-8cab-77659552e98a.png)
