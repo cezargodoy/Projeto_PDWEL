@@ -29,7 +29,8 @@ Antes de começar, você vai precisa ter instalado em sua máquina o [XAMPP](htt
 </ul>
 
 ### Rodando o servidor
-<p>Aperte em <strong>Start</strong> no XAMPP para rodar o servidor e digite esse endereço <strong>http://localhost/Projeto_PDWEL/</strong> incluindo a porta que foi adicionada na configuração. Para o nosso projeto, adicionamos na porta <a href="http://localhost/Projeto_PDWEL/">80</a>.</p>
+<p>Aperte em <strong>Start</strong> no XAMPP para rodar o servidor, armazene os arquivos em C:\xampp\htdocse descompacte.
+    Abra o navegador e digite esse endereço <strong>http://localhost/Projeto_PDWEL/</strong> incluindo a porta que foi adicionada na configuração. Para o nosso projeto, adicionamos na porta <a href="http://localhost/Projeto_PDWEL/">80</a>.</p>
 
 # Como usar
 
