@@ -1,9 +1,12 @@
-# Projeto_PDWEL
+# Sistema de Cadastro
+<p align="center">
+    O projeto é um sistema de cadastro, podendo criar um cadastro, exibir lista de contatos, editar contatos e excluir contatos.
+</p>
 
 <p align="center">
     <a href="#sobre">Sobre</a> •
     <a href="#instalação">Instalação</a> •
-    <a href="#como-usar">Como usar</a> •
+    <a href="#como-funciona">Como funciona</a> •
     <a href="#tecnologias">Tecnologias</a> •
     <a href="#autores">Autores</a> •
 </p>
@@ -16,7 +19,7 @@
 Antes de começar, você vai precisa ter instalado em sua máquina o [XAMPP](https://apachefriends.org/), pois é onde iremos simular nosso servidor web.
 
 ### Configuração XAMPP
-<p>Depois se realizar a instalação, abra o XAMPP e siga as seguintes instruções para a configuração:<p>
+<p>Depois de realizar a instalação, abra o XAMPP e siga as seguintes instruções para a configuração:<p>
 <ul>
     <li>Clique em <strong>Config</strong> à direita do cabeçalho "Apache"</li>
     <li>Clique em <strong>Apache (httpd.conf)</strong> no menu</li>
@@ -29,4 +32,11 @@ Antes de começar, você vai precisa ter instalado em sua máquina o [XAMPP](htt
 ### Rodando o servidor
 <p>Aperte em <strong>Start</strong> no XAMPP para rodar o servidor e digite esse endereço <strong>http://localhost:8080/</strong> incluindo a porta que foi adicionada na configuração. Para o nosso projeto, adicionamos na porta <a href="http://localhost:8080/">8080</a>.</p>
 
-# Como usar
+# Como funciona
+
+# Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+- [PHP](https://www.php.net/)
+- [MySQL](https://www.mysql.com/)
+# Autores
+Feito por Cesar Godoy e Isabela Duarte
