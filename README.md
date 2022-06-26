@@ -31,7 +31,7 @@ Antes de começar, você vai precisa ter instalado em sua máquina o [XAMPP](htt
 
 # Como usar
 
-Sistema de busca de cadastros na WEB onde é possível cadastrar, consultar, editar e excluir dados pessoais de individuos.
+Sistema de busca de cadastros na WEB onde é possível cadastrar, consultar, listar, editar e excluir dados pessoais de individuos.
 
 
 ![image](https://user-images.githubusercontent.com/60990343/175794489-aad338d7-ec8c-4fa2-8cab-77659552e98a.png)
