@@ -46,6 +46,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [PHP](https://www.php.net/)
 - [MySQL](https://www.mysql.com/)
 # Autores
-Feito por Cesar Godoy e Isabela Duarte
+Feito por Cezar Godoy e Isabela Duarte
 
 
