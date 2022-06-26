@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Curso de MVC</title>
+	<title>Cliente</title>
 </head>
 <body>
 
-<h1> Curso de MVC - mjailton </h1>
-<p>Estamos estudando PHP.</p>
+<h1> Cliente </h1>
+<p>Cliente</p>
 <?php 
     foreach($clientes as $cliente){
         echo $cliente["cliente"] ."<br>";

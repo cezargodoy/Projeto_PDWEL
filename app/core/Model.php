@@ -18,8 +18,8 @@ abstract class Model
 
 		);
 
-	}#END __construct()
+	}
 
-}#END class Model
+}
 
  ?>

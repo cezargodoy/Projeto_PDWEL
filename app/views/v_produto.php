@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Curso de MVC</title>
+	<title>Produto</title>
 </head>
 <body>
 
 <h1> View Produto </h1>
-<p>Estamos estudando PHP.</p>
+<p>Produto</p>
 
 </body>
 </html>
