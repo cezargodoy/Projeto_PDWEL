@@ -1,7 +1,14 @@
 {
+    "name": "cezargodoy/Projeto_PDWEL/",
+    "authors": [
+        {
+            "name": "cezargodoyphp",
+            "email": "cezargodoy10@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
-            "app\\": "app/"}
+            "app\\": "app/"
+        }
     }
 }
-

@@ -1,6 +1,6 @@
 # Sistema de Cadastro
 <p align="center">
-    O projeto é um sistema de cadastro, podendo criar um cadastro, exibir lista de contatos, editar contatos e excluir contatos.
+    O projeto é um sistema de busca de cadastros na WEB onde é possível cadastrar, consultar, listar, editar e excluir dados pessoais de individuos.
 </p>
 
 <p align="center">
@@ -13,7 +13,9 @@
 
 # Sobre
 <p>Projeto da disciplina optativa de PDWEL (Programação Dinâmica para Web) do Curso de Análise e Desenvolvimento de Sistemas - IFSP, sendo ministrado pelo Prof° Ugo Henrique Pereira Da Silva. </p>
-<p>O projeto foi desenvolvido em PHP, sendo realizado pelos alunos Cesar Godoy e Isabela Duarte. </p>
+<p>O projeto foi desenvolvido em PHP, sendo realizado pelos alunos Cezar Godoy e Isabela Duarte. </p>
+
+Utilizado MySQL como CRUD, MVC e Reponsivo.
 
 # Instalação
 Antes de começar, você vai precisa ter instalado em sua máquina o [XAMPP](https://apachefriends.org/), pois é onde iremos simular nosso servidor web.
@@ -30,9 +32,14 @@ Antes de começar, você vai precisa ter instalado em sua máquina o [XAMPP](htt
 </ul>
 
 ### Rodando o servidor
-<p>Aperte em <strong>Start</strong> no XAMPP para rodar o servidor e digite esse endereço <strong>http://localhost:8080/</strong> incluindo a porta que foi adicionada na configuração. Para o nosso projeto, adicionamos na porta <a href="http://localhost:8080/">8080</a>.</p>
+<p>Aperte em <strong>Start</strong> no XAMPP para rodar o servidor, armazene os arquivos em C:\xampp\htdocse descompacte.
+    Abra o navegador e digite esse endereço <strong>http://localhost/Projeto_PDWEL/</strong> incluindo a porta que foi adicionada na configuração. Para o nosso projeto, adicionamos na porta <a href="http://localhost/Projeto_PDWEL/">80</a>.</p>
 
 # Como funciona
+![image](https://user-images.githubusercontent.com/60990343/175794489-aad338d7-ec8c-4fa2-8cab-77659552e98a.png)
+
+
+![image](https://user-images.githubusercontent.com/60990343/175794503-00d9fcce-630b-44d2-b9f6-c09be75f2e26.png)
 
 # Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -40,3 +47,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [MySQL](https://www.mysql.com/)
 # Autores
 Feito por Cesar Godoy e Isabela Duarte
+
+
